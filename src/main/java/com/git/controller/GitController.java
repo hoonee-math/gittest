@@ -9,7 +9,11 @@ public class GitController {
 	}
 	
 	
+
 	public double test3() {
 		return 65.5;
+	}
+	public int test4() {
+		return 10;
 	}
 }
