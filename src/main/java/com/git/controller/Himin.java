@@ -26,5 +26,9 @@ public class Himin {
 	public int two() {
 		return 2;
 	}
+	
+	public String my() {
+		return "i'm minyoung";
+	}
 }
 
