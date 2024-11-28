@@ -26,5 +26,9 @@ public class Himin {
 	public int two() {
 		return 2;
 	}
+	
+	public void pen2() {
+		System.out.println("충돌충돌펜");
+	}
 }
 
