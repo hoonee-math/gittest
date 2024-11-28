@@ -10,5 +10,8 @@ public class Himin {
 	public void hello2() {
 		System.out.println();
 	}
+	public int one() {
+		return 1;
+	}
 }
 
