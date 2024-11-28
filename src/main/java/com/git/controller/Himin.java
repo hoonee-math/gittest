@@ -10,8 +10,13 @@ public class Himin {
 	public void hello2() {
 		System.out.println();
 	}
-	public int one() {
-		return 1;
-	}
+//<<<<<<< HEAD
+//	public int one() {
+//		return 1;
+//=======
+//	public void broken() {
+//		System.out.println("충돌테스트");
+//>>>>>>> branch 'master' of https://github.com/hoonee-math/gittest.git
+//	}
 }
 
