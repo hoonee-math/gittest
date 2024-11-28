@@ -27,8 +27,13 @@ public class Himin {
 		return 2;
 	}
 	
+
+	public void pen2() {
+		System.out.println("충돌충돌펜");
+	}
 	public String my() {
 		return "i'm minyoung";
+
 	}
 }
 
