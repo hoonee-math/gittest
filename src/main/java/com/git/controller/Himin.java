@@ -18,5 +18,8 @@ public class Himin {
 //		System.out.println("충돌테스트");
 //>>>>>>> branch 'master' of https://github.com/hoonee-math/gittest.git
 //	}
+	public void pen() {
+		System.out.println("충돌충돌펜");
+	}
 }
 
