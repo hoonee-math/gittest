@@ -10,5 +10,8 @@ public class Himin {
 	public void hello2() {
 		System.out.println();
 	}
+	public void broken() {
+		System.out.println("충돌테스트");
+	}
 }
 
